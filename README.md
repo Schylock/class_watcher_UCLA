@@ -10,3 +10,5 @@ To use create a text file with every line formated as follows (very important) w
 example:
 
 http://www.registrar.ucla.edu/schedule/detselect.aspx?termsel=13F&subareasel=MATH&idxcrs=0115A+++ Math115A 262398271 262398281
+
+note:it may not show up very well here, but take care to seperate the three sections of every line with a single space
