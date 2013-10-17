@@ -35,14 +35,14 @@ class MyHTMLParser(HTMLParser):
            # print 'class', self.current
 
 def send(message = "None"):
-    number = "8313926314" #put your number here
-    prov = '41'   #this is ur provider code, google it 
+    number =" " #put your number here
+    prov = '4'   #this is ur provider code, google it 
     url = 'http://www.onlinetextmessage.com/send.php'
     values = {'code' : '',
               'number' : number,
-              'from' : 'schyock11@gmail.com',
+              'from' : '',  #put your email here
               'remember' : 'n',
-              'subject' : 'Add Now',
+              'subject' : '', 
               'carrier' : prov,
               'quicktext' : '',
               'message' : message,
